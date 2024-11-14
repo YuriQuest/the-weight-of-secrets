@@ -1,9 +1,9 @@
-# **Game project template**
+# **The weight of secrets**
 
 > Breve descrição ou slogan do projeto.
 
 ## **Índice**
-- [**Game project template**](#game-project-template)
+- [**The weight of secrets**](#the-weight-of-secrets)
   - [**Índice**](#índice)
   - [**Sobre o Projeto**](#sobre-o-projeto)
   - [**Funcionalidades**](#funcionalidades)
