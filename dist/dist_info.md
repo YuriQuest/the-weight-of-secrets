@@ -1,0 +1,5 @@
+# **Português**
+A pasta dist (abreviação de "distribution") é onde ficam os arquivos gerados após o processo de build da aplicação. Essa pasta contém a versão otimizada e pronta para distribuição do código, incluindo os arquivos minificados de JavaScript, CSS, HTML, imagens e outros recursos necessários para a execução da aplicação em produção. A pasta dist geralmente é ignorada pelo controle de versão (usando .gitignore), já que os arquivos de build são recriados a cada nova versão.
+
+# **Inglês**
+The dist (short for "distribution") folder is where the generated files are stored after the application's build process. This folder contains the optimized and production-ready version of the code, including minified JavaScript, CSS, HTML files, images, and other resources needed for running the application in production. The dist folder is usually ignored by version control (using .gitignore), as the build files are recreated with each new release.
